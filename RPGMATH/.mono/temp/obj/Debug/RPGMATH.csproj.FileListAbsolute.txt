@@ -1,0 +1,9 @@
+C:\Users\Krish\OneDrive\Documents\GitHub\AnythingYouWant\RPGMATH\.mono\temp\bin\Debug\RPGMATH.dll
+C:\Users\Krish\OneDrive\Documents\GitHub\AnythingYouWant\RPGMATH\.mono\temp\bin\Debug\RPGMATH.pdb
+C:\Users\Krish\OneDrive\Documents\GitHub\AnythingYouWant\RPGMATH\.mono\temp\obj\Debug\RPGMATH.csproj.AssemblyReference.cache
+C:\Users\Krish\OneDrive\Documents\GitHub\AnythingYouWant\RPGMATH\.mono\temp\obj\Debug\RPGMATH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krish\OneDrive\Documents\GitHub\AnythingYouWant\RPGMATH\.mono\temp\obj\Debug\RPGMATH.AssemblyInfoInputs.cache
+C:\Users\Krish\OneDrive\Documents\GitHub\AnythingYouWant\RPGMATH\.mono\temp\obj\Debug\RPGMATH.AssemblyInfo.cs
+C:\Users\Krish\OneDrive\Documents\GitHub\AnythingYouWant\RPGMATH\.mono\temp\obj\Debug\RPGMATH.csproj.CoreCompileInputs.cache
+C:\Users\Krish\OneDrive\Documents\GitHub\AnythingYouWant\RPGMATH\.mono\temp\obj\Debug\RPGMATH.dll
+C:\Users\Krish\OneDrive\Documents\GitHub\AnythingYouWant\RPGMATH\.mono\temp\obj\Debug\RPGMATH.pdb

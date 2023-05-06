@@ -11,6 +11,7 @@ config_version=4
 [application]
 
 config/name="RPGMATH"
+run/main_scene="res://funi.tscn"
 config/icon="res://icon.png"
 
 [gui]
